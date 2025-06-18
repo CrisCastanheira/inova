@@ -8,7 +8,7 @@ const produtos = [
     desconto: '10% OFF'
   },
   {
-    nome: 'Calça Feminina',
+    nome:  'Calça Feminina',
     preco: 279.99,
     imagem: 'img(Fotos)/imgCalçaF.webp',
     estrelas: 5
